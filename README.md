@@ -1,3 +1,4 @@
+# Full Stack Javascript Bootcamp Assignment 
 
 ![iNeuron, LCO](https://img.shields.io/badge/iNeuron-LCO-green)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -10,17 +11,19 @@
 
 # Live Project 13 : SAAS Landing Page
 
-
-## Project 13: [Live Link](https://live-project-13-fs-js.netlify.app/)
+## Project 13: (Mobile Responsive)
+[Live Link](https://live-project-13-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     - Learned to use add shadows to the card,using border-radius top add top curves to elements.
+    - Created cards for displaying contents in better formats.
+    - Modified color of svg images.
         
 ---
 
-## Time taken to finish this project⏲
+## Time taken to finish this project(including adding media queries)⏲
 
-- >Around 3.5 hours.
+- >Around 4 hours.
 
 #### Screenshot
 
